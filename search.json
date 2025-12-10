@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Om mig",
+    "section": "",
+    "text": "Om mig\nHär kan jag skriva lite om mig själv."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Välkommen",
+    "section": "",
+    "text": "Hej!\nDet här är min test-sida byggd med Quarto.\n\nJag kan skriva text, länkar och bilder.\nJag kan rendera HTML och PDF direkt från Positron."
+  }
+]
