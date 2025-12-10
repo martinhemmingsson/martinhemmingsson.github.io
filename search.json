@@ -7,6 +7,13 @@
     "text": "Om mig\nMaster i psykologi och (snart förhoppningsvis) kandidat i statistik."
   },
   {
+    "objectID": "blog/inlagg1.html",
+    "href": "blog/inlagg1.html",
+    "title": "Mitt första blogginlägg",
+    "section": "",
+    "text": "Första inlägget\nDet här är mitt första blogginlägg."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Välkommen",
@@ -19,12 +26,5 @@
     "title": "Blogg",
     "section": "",
     "text": "Här är mina inlägg:\n\nFörsta inlägget"
-  },
-  {
-    "objectID": "blog/inlagg1.html",
-    "href": "blog/inlagg1.html",
-    "title": "Mitt första blogginlägg",
-    "section": "",
-    "text": "Första inlägget\nDet här är mitt första blogginlägg."
   }
 ]
