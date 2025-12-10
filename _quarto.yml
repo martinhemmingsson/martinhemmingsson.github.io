@@ -3,8 +3,10 @@ project:
   output-dir: .
 
 website:
-  title: "Mitt Namn"
+  title: "Martin Eklöf"
   navbar:
     right:
       - text: "Om mig"
         href: about.html
+      - "Blogg"
+        href: blog/index.html

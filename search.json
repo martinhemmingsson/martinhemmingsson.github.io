@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "Om mig",
     "section": "",
-    "text": "Om mig\nHär kan jag skriva lite om mig själv."
+    "text": "Om mig\nMaster i psykologi och (snart förhoppningsvis) kandidat i statistik."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Välkommen",
     "section": "",
-    "text": "Hej!\nDet här är min test-sida byggd med Quarto.\n\nJag kan skriva text, länkar och bilder.\nJag kan rendera HTML och PDF direkt från Positron."
+    "text": "Hej!\nDet här är min personliga sida byggd med Quarto.\n\nKlicka på “Om mig” för att läsa mer.\nKlicka på “Blogg” för att se alla inlägg."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blogg",
+    "section": "",
+    "text": "Här är mina inlägg:\n\nFörsta inlägget"
+  },
+  {
+    "objectID": "blog/inlagg1.html",
+    "href": "blog/inlagg1.html",
+    "title": "Mitt första blogginlägg",
+    "section": "",
+    "text": "Första inlägget\nDet här är mitt första blogginlägg."
   }
 ]
